@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\laura\Documents\ALU\simulation\qsim
+vALU
+Z1 !s100 UU5PbT]QF[D8FIOJ7MP3W3
+Z2 Ig>c;oML5WCLcaSa;]LEiM0
+Z3 VK2zjFf441MTC25fbN6c8f0
+Z4 dC:\Users\laura\Documents\ALU_COMPLETA\ALU\simulation\qsim
+Z5 w1717185882
+Z6 8ALU.vo
+Z7 FALU.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|ALU.vo|
+Z10 o-work work -O0
+Z11 n@a@l@u
+!i10b 1
+!s85 0
+Z12 !s108 1717185883.365000
+Z13 !s107 ALU.vo|
+!s101 -O0
+vALU_vlg_check_tst
+!i10b 1
+!s100 6OTb4RgSYEnNTEH7AdnJ]0
+Ieg0h9AROC3?PUSVhd?4em0
+Z14 V7ocio:azdUEHLPO16BKgj3
+R4
+R5
+Z15 8Waveform9.vwf.vt
+Z16 FWaveform9.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z17 !s108 1717185883.412000
+Z18 !s107 Waveform9.vwf.vt|
+Z19 !s90 -work|work|Waveform9.vwf.vt|
+!s101 -O0
+R10
+Z20 n@a@l@u_vlg_check_tst
+vALU_vlg_sample_tst
+!i10b 1
+!s100 GdhF^G8:1O`SMGSiI7M5j3
+I[@2go_=Hfzi=RMDMS`^5H2
+Z21 Vb8@02RFbADSo90KM4coGZ1
+R4
+R5
+R15
+R16
+L0 29
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+Z22 n@a@l@u_vlg_sample_tst
+vALU_vlg_vec_tst
+!i10b 1
+!s100 L7JFGd?B^?2SNR:4eG0P:2
+I1R51;WCPaoBODGCK`Wn5O0
+Z23 V>bFnnU[^IecCM5^<l3;]W0
+R4
+R5
+R15
+R16
+Z24 L0 361
+R8
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R10
+Z25 n@a@l@u_vlg_vec_tst

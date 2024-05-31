@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\laura\Documents\DECOHEXA\simulation\qsim
+vdecoBCD
+Z1 !s100 DG<_`So[d;fFW:Y]K<<`d3
+Z2 I<V2]YVIJ8JdSC5PIO]6]c3
+Z3 VKZ5=>gXcSYlKo@9O0:_:c2
+Z4 dC:\Users\laura\Documents\DECOHEXA\simulation\qsim
+Z5 w1716438408
+Z6 8decoBCD.vo
+Z7 FdecoBCD.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|decoBCD.vo|
+Z10 o-work work -O0
+Z11 ndeco@b@c@d
+!i10b 1
+!s85 0
+Z12 !s108 1716438409.215000
+Z13 !s107 decoBCD.vo|
+!s101 -O0
+vdecoBCD_vlg_check_tst
+!i10b 1
+Z14 !s100 aKo@CB]nVI]U7ZIJ_6W?E1
+Z15 IU`X;zP`hcOo>boI2<<fBE0
+Z16 VNQAd8@B;BFj]167YYdA[m0
+R4
+Z17 w1716438407
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z20 !s108 1716438409.266000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 ndeco@b@c@d_vlg_check_tst
+vdecoBCD_vlg_sample_tst
+!i10b 1
+Z24 !s100 K9LokXEeo[T8cB1fDJeb_1
+Z25 INKZ_U0W07;aIOZnh6Kg0A3
+Z26 V4]lO2`b[=RcV=`iUacKUY3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 ndeco@b@c@d_vlg_sample_tst
+vdecoBCD_vlg_vec_tst
+!i10b 1
+!s100 b;ORdeH6nWll0M3W3FjTm0
+IA_3M57NeFJ?=35U>`H?WB0
+Z28 V`7FVDzHPJ?eAbGB0HQI=91
+R4
+R17
+R18
+R19
+Z29 L0 259
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 ndeco@b@c@d_vlg_vec_tst

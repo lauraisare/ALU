@@ -1,0 +1,88 @@
+$comment
+	File created using the following command:
+		vcd file decoBCD.msim.vcd -direction
+$end
+$date
+	Wed May 22 23:26:49 2024
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module decoBCD_vlg_vec_tst $end
+$var reg 4 ! IA [3:0] $end
+$var wire 1 " F [6] $end
+$var wire 1 # F [5] $end
+$var wire 1 $ F [4] $end
+$var wire 1 % F [3] $end
+$var wire 1 & F [2] $end
+$var wire 1 ' F [1] $end
+$var wire 1 ( F [0] $end
+$var wire 1 ) sampler $end
+$scope module i1 $end
+$var wire 1 * gnd $end
+$var wire 1 + vcc $end
+$var wire 1 , unknown $end
+$var tri1 1 - devclrn $end
+$var tri1 1 . devpor $end
+$var tri1 1 / devoe $end
+$var wire 1 0 F[0]~output_o $end
+$var wire 1 1 F[1]~output_o $end
+$var wire 1 2 F[2]~output_o $end
+$var wire 1 3 F[3]~output_o $end
+$var wire 1 4 F[4]~output_o $end
+$var wire 1 5 F[5]~output_o $end
+$var wire 1 6 F[6]~output_o $end
+$var wire 1 7 IA[3]~input_o $end
+$var wire 1 8 IA[2]~input_o $end
+$var wire 1 9 IA[1]~input_o $end
+$var wire 1 : IA[0]~input_o $end
+$var wire 1 ; F~0_combout $end
+$var wire 1 < F~1_combout $end
+$var wire 1 = F~2_combout $end
+$var wire 1 > F~3_combout $end
+$var wire 1 ? F~4_combout $end
+$var wire 1 @ F~5_combout $end
+$var wire 1 A F~6_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1001 !
+0(
+0'
+0&
+1%
+1$
+0#
+0"
+x)
+0*
+1+
+x,
+1-
+1.
+1/
+00
+01
+02
+13
+14
+05
+06
+17
+08
+09
+1:
+0;
+0<
+1=
+1>
+1?
+0@
+0A
+$end
+#1000000
